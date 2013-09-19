@@ -1,0 +1,30 @@
+{
+    "name": "instapull",
+    "title": "jQuery InstaPull",
+    "description": "jQuery plugin for pulling Instagram photos according to tag and likes into a specified container.",
+    "keywords": [
+        "instagram",
+        "photo",
+        "api"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "Kirk Bulis",
+        "url": "https://github.com/kbulis"
+    },
+    "maintainers": [
+        {
+            "name": "Kirk Bulis",
+            "url": "https://github.com/kbulis"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://opensource.org/licenses/MIT"
+        }
+    ],
+    "dependencies": {
+        "jquery": ">=1.6"
+    }
+}
